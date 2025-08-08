@@ -1,0 +1,6 @@
+langchain 
+streamlit 
+faiss-cpu 
+sentence-transformers 
+ollama
+langchain-community

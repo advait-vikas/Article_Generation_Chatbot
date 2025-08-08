@@ -1,0 +1,9 @@
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+kagglehub
+pandas
+ollama
+streamlit 
+torch
