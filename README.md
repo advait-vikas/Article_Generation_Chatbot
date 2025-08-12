@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ```bash
 cd task1
-ollama run mistral (another terminal) 
+ollama run mistral //(another terminal) 
 streamlit run chatbot.py
 ```
 
@@ -72,7 +72,7 @@ streamlit run chatbot.py
 
 ```bash
 cd task2
-ollama run mistral (another terminal) 
+ollama run mistral rem %= (another terminal) =% 
 streamlit run app.py
 ```
 
@@ -80,8 +80,8 @@ streamlit run app.py
 
 ```bash
 cd task3
-ollama run mistral (another terminal)
-python ingest_arxiv.py (to import the papers)
+ollama run mistral //(another terminal)
+python ingest_arxiv.py //(to import the papers)
 streamlit run chatbot_arxiv.py
 ```
 
