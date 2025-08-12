@@ -1,5 +1,5 @@
 
-# 🚀 LLM-Based Chatbot Projects – NullClass Internship
+# 🚀 LLM-Based Article Generation Chatbot
 
 This repository contains the three main tasks completed during my **NullClass Data Science Internship (July 16 – August 16, 2025)**.  
 All tasks involve building and deploying **LLM-powered applications** using tools such as **LangChain**, **Streamlit**, **FAISS**, and various open-source LLMs like **Mistral** (via Ollama).
