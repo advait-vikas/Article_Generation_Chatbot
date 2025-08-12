@@ -1,6 +1,4 @@
-Here’s your README rewritten in clean, professional, and properly formatted **Markdown**:
 
-```markdown
 # 🚀 LLM-Based Chatbot Projects – NullClass Internship
 
 This repository contains the three main tasks completed during my **NullClass Data Science Internship (July 16 – August 16, 2025)**.  
@@ -48,8 +46,6 @@ All tasks involve building and deploying **LLM-powered applications** using tool
 - Supports **article generation** from the ingested scientific knowledge
 
 ---
-
-````
 
 ### 2️⃣ Install dependencies
 
